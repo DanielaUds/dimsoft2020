@@ -1,3 +1,8 @@
 function toColor (){
     document.getElementById("h1").style.color = "purple";                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 }
+
+function myButton (){
+    document.getElementById("demo").innerHTML = "C'est vrai , ils sont vraiment cool!!";                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+}
+}
